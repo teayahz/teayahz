@@ -1,7 +1,6 @@
 - hiii, i'm teayahh
 - i’m interested in math and computers and music and linguistics
--  i’m currently learning nothing
-- pronouns: she/they
+- i’m currently learning: nothing
 - fun fact: i'm the reincarnation of Pluto
 
 <!---
